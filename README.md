@@ -1,4 +1,11 @@
-## Hi there 👋
+
+## 👋 Hey there, I'm Aryan Verma
+
+I'm a backend developer passionate about PHP, open-source, and systems programming.
+
+## 🔥 Open Source Contributions
+
+- 🧩 [Symfony PR #61154](https://github.com/symfony/symfony/pull/61154) – Added support for `application/x-ndjson` MIME type in the Mime component of the Symfony framework.
 
 <!--
 **Aryanverma19/Aryanverma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
