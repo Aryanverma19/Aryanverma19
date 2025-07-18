@@ -12,7 +12,12 @@
 - 📫 Reach me at **it22037@glbitm.ac.in**
 
 ---
+### 🌍 Open Source Contributions
 
+- 🧩 [Symfony PR #61154](https://github.com/symfony/symfony/pull/61154) – Contributed to the [Symfony PHP Framework](https://symfony.com/):
+  
+  > ✅ Added support for the `application/x-ndjson` MIME type in the Mime component, improving handling of NDJSON (newline-delimited JSON) used in streaming APIs and log pipelines.
+  > 
 ### 🛠️ Tech Stack
 
 - 💻 Languages: `PHP`, `Java`, `C++`, `JavaScript`, `SQL`
@@ -22,13 +27,6 @@
 - 🛢️ Databases: `MySQL`, `MongoDB` (basic)
 - 📦 Others: `REST APIs`, `JWT`, `OpenAPI`, `PostgreSQL` (basic)
 
----
-
-### 🌍 Open Source Contributions
-
-- 🧩 [Symfony PR #61154](https://github.com/symfony/symfony/pull/61154) – Contributed to the [Symfony PHP Framework](https://symfony.com/):
-  
-  > ✅ Added support for the `application/x-ndjson` MIME type in the Mime component, improving handling of NDJSON (newline-delimited JSON) used in streaming APIs and log pipelines.
 
 ---
 
