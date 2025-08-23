@@ -6,9 +6,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student  
-- 💼 Aspiring Backend / PHP Developer  
-- 🔍 Currently exploring: Symfony, Laravel, Blockchain & DevOps  
+- 🎓 B.Tech Computer Science Student   
+- 🔍 Currently exploring: Explainable AI, Data Analytics and deployment techniques to bridge the gap between research and real-world applications. 
 - 📫 Reach me at **it22037@glbitm.ac.in**
 
 ---
@@ -20,19 +19,21 @@
   > 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: `PHP`, `Java`, `C++`, `JavaScript`, `SQL`
-- 🌐 Web: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
-- 🧩 Frameworks: `Symfony`, `Laravel` (learning), `Spring Boot`, `React` (basic)
-- ⚙️ Tools: `Git`, `Postman`, `VS Code`, `XAMPP`, `Composer`
+- 💻 Languages: `Java`, `C`,`Pyhton`, `SQL`
+- 🌐 Web: `HTML`, `CSS`, `JavaScript`
+- 🧩 Frameworks: `Symfony`, `Spring Boot`, `React` (basic)
+- ⚙️ Tools: `Git`,`VS Code`
 - 🛢️ Databases: `MySQL`, `MongoDB` (basic)
-- 📦 Others: `REST APIs`, `JWT`, `OpenAPI`, `PostgreSQL` (basic)
+- 📦 Others: `REST APIs`, `NumPy`, `OpenAPI`, `Pandas`, `Tableau`
 
 
 ---
 
 ### 📌 Featured Projects
-
-
+- **Plant Disease Detection System(using CNN)**
+  *Developed a deep learning-based image classification model to
+ detect plant leaf diseases using Convolutional Neural Networks
+ (CNNs)*
 
 - **Walmart Sales Analysis (Data Analytics Project)**  
   *Analyzed sales trends and inventory performance.*  
