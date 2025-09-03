@@ -40,6 +40,8 @@
   > Built with Python (Pandas, Matplotlib), focused on real-world business insights.
 
 ---
+[Aryan Verma](https://github.com/Aryanverma19)
+
 
 
 ### 💬 Let's Connect
