@@ -12,9 +12,9 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AryanVerma19-blue?logo=linkedin)](https://www.linkedin.com/in/aryan-verma-260688259)  
-[![Email](https://img.shields.io/badge/Email-aryanverma19%40gmail.com-red?logo=gmail)](mailto:av12111211@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Aryanverma19-black?logo=github)](https://github.com/Aryanverma19)
+[![(https://img.shields.io/badge/LinkedIn-AryanVerma19-blue?logo=linkedin)](https://www.linkedin.com/in/aryan-verma-260688259)  
+[![(https://img.shields.io/badge/Email-aryanverma19%40gmail.com-red?logo=gmail)](mailto:av12111211@gmail.com)  
+[![(https://img.shields.io/badge/GitHub-Aryanverma19-black?logo=github)](https://github.com/Aryanverma19)
 
 ---
 
