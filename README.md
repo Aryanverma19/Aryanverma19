@@ -12,9 +12,10 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-blue?logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/aryan-verma19)  
-[![Email](https://img.shields.io/badge/-red?logo=gmail&logoColor=white&label=)](mailto:aryanverma19@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-black?logo=github&logoColor=white&label=)](https://github.com/Aryanverma19)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AryanVerma19-blue?logo=linkedin)](https://www.linkedin.com/in/aryan-verma19)  
+[![Email](https://img.shields.io/badge/Email-aryanverma19%40gmail.com-red?logo=gmail)](mailto:aryanverma19@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Aryanverma19-black?logo=github)](https://github.com/Aryanverma19)
+
 
 
 
