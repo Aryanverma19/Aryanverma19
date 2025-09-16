@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20I%27m%20Aryan%20Verma&animation=fire&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:6a11cb&height=120&section=header&text=Hey%20There!%20I'm%20Aryan%20Verma&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">B.Tech IT Student | Data Analyst | Cloud & ML Enthusiast</h3>
