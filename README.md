@@ -10,7 +10,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AryanVerma19-blue?logo=linkedin)](https://www.linkedin.com/in/aryan-verma19)  
 [![Email](https://img.shields.io/badge/Email-aryanverma19%40gmail.com-red?logo=gmail)](mailto:aryanverma19@gmail.com)  
